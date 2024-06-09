@@ -1,4 +1,4 @@
-![logo]https://github.com/sobujhasan1000/sobujhasan1000/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg
+![logo](https://github.com/sobujhasan1000/sobujhasan1000/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohidul islam</h1>
 <h3 align="center">frontend developer / MERN stack developer</h3>
 
